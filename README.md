@@ -4,8 +4,8 @@
 
 | Name             | Enrollment Number  | Practical Set|
 |------------------|--------------------|--------------|
-| Patel Niral      | 202504104610095    | Set A        |
-| Pandey Suraj     | 202504104610094    | Set b        |
+| Patel Niral      | 202504104610095    | Set B        |
+| Pandey Suraj     | 202504104610094    | Set A        |
 
 ---
 ## Logos
